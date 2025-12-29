@@ -17,7 +17,7 @@ This program calculates results for a class of students based on marks obtained 
 * **Class Summary:** Generates a final report showing the total number of students who passed and failed.
 * **Highest Achiever:** Automatically tracks and displays the name of the student with the highest percentage.
 
-## 📊 Grading Criteria
+## Grading Criteria
 
 The system assigns grades based on the following percentage breakdown:
 
@@ -32,22 +32,6 @@ The system assigns grades based on the following percentage breakdown:
 ## Core Concepts:
     * `if-else` (Conditional Logic)
     * `for` and `while` loops (Iteration & Validation)
-    * `iostream` (Input/Output Operations)
-
-## How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/student-result-system.git](https://github.com/your-username/student-result-system.git)
-    ```
-2.  **Compile the program:**
-    ```bash
-    g++ main.cpp -o result_system
-    ```
-3.  **Run the executable:**
-    ```bash
-    ./result_system
-    ```
 
 ## Sample Output
 
