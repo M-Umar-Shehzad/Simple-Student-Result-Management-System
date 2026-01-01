@@ -24,7 +24,7 @@ int main()
         }
     }
 
-    if (flag=true)
+    if (flag == true)
         cout << "Prime Number";
     else
         cout << "Not a Prime Number";
