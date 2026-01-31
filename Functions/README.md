@@ -1,4 +1,4 @@
-# Modular Programming (Functions)
+# Functions
 
 ## Module Overview
 This directory focuses on **code reusability** and **structural logic** in C++.
